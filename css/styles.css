@@ -6,8 +6,17 @@ h1 {
     color: #204051;
 }
 
-h3 {
+.listProg {
+    font-style: normal;
+    color: steelblue;
+}
+
+h3:hover {
     color: #204051;
+}
+
+.prog {
+    color: #222831;
 }
 
 hr {
@@ -16,4 +25,8 @@ hr {
     border-color: #3b6978;
     border-width: 5px;
     width: 20%;
+}
+
+#education {
+    color: #222831;
 }
